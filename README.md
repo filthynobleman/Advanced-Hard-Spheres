@@ -116,4 +116,4 @@ Here a list of the possible future changes. As I will think to other changes, I 
   * Considering changes in the output format.
   * A graphic renderer in OpenGL will be implemented to visualize the simulation results.
   * Switch to Make.
-  
+  * A complete and formal documentation of the models, the code and the input and output format will be provided.
